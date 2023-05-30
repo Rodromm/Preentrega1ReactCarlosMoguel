@@ -1,0 +1,9 @@
+.title {
+    color: orangered;
+    font-size: 35px;
+    background-color: black;
+}
+
+.btnPrimary, .btnSecondary, .btnTertiary {
+    margin-right: 15px;
+}
